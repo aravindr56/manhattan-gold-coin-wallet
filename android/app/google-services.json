@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2547057088",
+    "project_id": "manhattan-gold-coin-wallet",
+    "storage_bucket": "manhattan-gold-coin-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2547057088:android:e6879b67d940685a52c825",
+        "android_client_info": {
+          "package_name": "com.example.manhattan_gold_coin_wallt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmd-bEhp8IW--0Jv0_gEZ1fYTG8wwV0bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
